@@ -2,7 +2,7 @@
 
 A simple login UI design for any Flutter project.
 
-## Initialization
+## Android Studio
 
 This project is a starting point for a Flutter application.
 
